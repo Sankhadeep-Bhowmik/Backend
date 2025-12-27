@@ -1,0 +1,24 @@
+{
+  "name": "custompackage",
+  "version": "1.0.0",
+  "description": "this is a custom made package.json made by npm init",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sankhadeep-Bhowmik/Backend.git"
+  },
+  "author": "Sankhadeep Bhowmik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sankhadeep-Bhowmik/Backend/issues"
+  },
+  "homepage": "https://github.com/Sankhadeep-Bhowmik/Backend#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "nodemon": "^3.1.11"
+  }
+}
